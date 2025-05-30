@@ -51,5 +51,3 @@ This project demonstrates an end-to-end data engineering pipeline built using **
 
 ---
 
-## 📁 Folder Structure (Sample)
-
